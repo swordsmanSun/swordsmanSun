@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/swordsmanSun/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/swordsmanSun/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/swordsmanSun/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordsmanSun&show_icons=true&theme=tokyonight)
